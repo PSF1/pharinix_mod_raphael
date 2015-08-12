@@ -1,0 +1,25 @@
+{
+    "meta":{
+        "name":"Raphaël - JavaScript Vector Library",
+        "slugname":"raphael_js",
+        "version": "2.1.4",
+        "autor": "Copyright © 2008-2012 Dmitry Baranovskiy (http://raphaeljs.com), Copyright © 2008-2012 Sencha Labs (http://sencha.com)",
+        "website": "https://github.com/PSF1/pharinix_mod_raphael",
+        "description": "Small JavaScript library that should simplify your work with vector graphics on the web.",
+        "licence": "MIT License"
+    },
+    "configuration": {},
+    "booting": [],
+    "bin_paths": [],
+    "nodetypes": {},
+    "sql": {},
+    "install": [],
+    "uninstall": [],
+    "requirements": {
+        "pharinix": "1.07.x"
+    },
+    "platforms":[
+        "win",
+        "linux"
+    ]
+}
