@@ -10,7 +10,9 @@
     },
     "configuration": {},
     "booting": [],
-    "bin_paths": [],
+    "bin_paths": [
+        "bin/"
+    ],
     "nodetypes": {},
     "sql": {},
     "install": [],
